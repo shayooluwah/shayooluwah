@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data analytics and ML systems
 - 🌱 I’m currently learning python for data analytics
 - 💞️ I’m looking to collaborate on analytics projects
-- 📫 How to reach me @petit_devril on twitter
+- 📫 How to reach me @meisterenigma on twitter
 
 <!---
 shayooluwah/shayooluwah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
